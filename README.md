@@ -1,2 +1,2 @@
 # VideoQA-Eval
-A comprehensive toolset for evaluation videoQA tasks.
+A comprehensive metric toolset for evaluation NLG and videoQA tasks.
