@@ -1,6 +1,9 @@
 # VideoQA-Eval
-A comprehensive metric toolset for evaluation NLG and videoQA tasks.
+A comprehensive metric toolset for evaluation NLG, videoQA, etc. tasks.
 
+## Our MMEval Metric
+MMEval is a novel LLM-based metric designed for Video Question Answering, which can utilize multimodal information to evaluate answers.
+You can find more in our new CVPR2024 paper [CUVA]() and [github repo](https://github.com/fesvhtr/CUVA).
 ## Installation
 
 ## Acknowledgements

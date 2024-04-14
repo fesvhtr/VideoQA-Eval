@@ -1,3 +1,6 @@
 [submodule "UniEval"]
 	path = UniEval
 	url = https://github.com/maszhongming/UniEval.git
+[submodule "emnlp19-moverscore"]
+	path = emnlp19-moverscore
+	url = /emnlp19-moverscore
